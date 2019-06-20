@@ -6,3 +6,7 @@
 
 * [Gridsome](jamstack/gridsome.md)
 
+## Javascript
+
+* [Formatting and Linting](javascript/formatting-and-linting.md)
+
